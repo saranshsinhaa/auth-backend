@@ -134,4 +134,3 @@ src/static/temp/*
 .flaskenv*
 !.env.project
 !.env.vault
-build/
